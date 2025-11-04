@@ -1,4 +1,4 @@
-Labirinto com Arduino  
+# Labirinto com Arduino  
 
 Nosso projeto da Semana Industrial é um labirinto que é ontrolado por um joystick, se movendo de acordo com os movimentos realizados no joystick 
 
