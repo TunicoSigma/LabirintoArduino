@@ -27,6 +27,8 @@ Porcas M3
 1 bolinha de gude
 Parafusadeira
 
+Programação do Labirinto -> [Labirinto_Arduino2.ino](https://github.com/GarleykhsonKavawelski/LabirintoArduino/blob/main/Labirinto_Arduino2.ino)
+
 Vídeo tutorial de como fazer -> https://www.youtube.com/watch?v=JcVeITaMcmA
 
 Vídeo curto de um projeto funcionando -> https://www.youtube.com/watch?v=lfgFMMhgsqg
