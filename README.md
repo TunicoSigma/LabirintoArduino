@@ -4,11 +4,11 @@ Nosso projeto da Semana Industrial é um labirinto que é ontrolado por um joyst
 
 ###Equipe (Colaboradores)* Antonio Previtali Morais(https.github.com/TunicoSigma), Ariel Cachuf Viana(https.github.com/aricass), Eduardo Nascimento Uchikava Correia(https.github.com/GarleykhsonKavawelski), Nicolas Gabriel Souza de Figueiredo(https.github.com/Nicollai-ai), Victor Silva dos Reis Santos(https.github.com/Victor2025labubu)###
 
-Nosso desafio era projetar e construir um jogo eletrônico para a Semana Industrial. Por isso, decidimos fazer um Labirinto controlado por Arduino Uno. Ele funciona da seguinte maneira: 
+*Nosso desafio era projetar e construir um jogo eletrônico para a Semana Industrial. Por isso, decidimos fazer um Labirinto controlado por Arduino Uno. Ele funciona da seguinte maneira: 
 Teremos uma bolinha de gude no caminho do labirinto e seu objetivo é chegar até o fim. O Arduino irá receber o sinal do Joystick, que vai virar um comando. Também temos Servo-motores 
-atuando para movimentar o labirinto.
+atuando para movimentar o labirinto.*
 
-Componentes utilizados: 
+*Componentes utilizados: 
 Arduino Uno
 2x Micro Servo SG90 180 graus
 1x Joystick
@@ -25,7 +25,7 @@ Madeira MDF
 14x Parafusos M3
 Porcas M3
 1 bolinha de gude
-Parafusadeira
+Parafusadeira*
 
 Programação do Labirinto -> [Labirinto_Arduino2.ino](https://github.com/GarleykhsonKavawelski/LabirintoArduino/blob/main/Labirinto_Arduino2.ino)
 
