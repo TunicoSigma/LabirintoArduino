@@ -2,7 +2,7 @@
 
 Nosso projeto da Semana Industrial é um labirinto que é ontrolado por um joystick, se movendo de acordo com os movimentos realizados no joystick 
 
-###Equipe (Colaboradores)* Antonio Previtali Morais(https.github.com/TunicoSigma), Ariel Cachuf Viana(https.github.com/aricass), Eduardo Nascimento Uchikava Correia(https.github.com/GarleykhsonKavawelski), Nicolas Gabriel Souza de Figueiredo(https.github.com/Nicollai-ai), Victor Silva dos Reis Santos(https.github.com/Victor2025labubu)
+###Equipe (Colaboradores)* Antonio Previtali Morais(https.github.com/TunicoSigma), Ariel Cachuf Viana(https.github.com/aricass), Eduardo Nascimento Uchikava Correia(https.github.com/GarleykhsonKavawelski), Nicolas Gabriel Souza de Figueiredo(https.github.com/Nicollai-ai), Victor Silva dos Reis Santos(https.github.com/Victor2025labubu)###
 
 Nosso desafio era projetar e construir um jogo eletrônico para a Semana Industrial. Por isso, decidimos fazer um Labirinto controlado por Arduino Uno. Ele funciona da seguinte maneira: 
 Teremos uma bolinha de gude no caminho do labirinto e seu objetivo é chegar até o fim. O Arduino irá receber o sinal do Joystick, que vai virar um comando. Também temos Servo-motores 
